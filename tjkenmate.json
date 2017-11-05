@@ -3,11 +3,15 @@
     "displayName" : "Tj's Alt Gauge Patch!",
     "fileName" : "TJ_Patch_KMSAltGauge_YEP_Status.js",
     "version" : "1.0.0",
+    "URL" : "https://raw.githubusercontent.com/tjkenmate/MVPlugins/master/TJ_Patch_KMSAltGauge_YEP_Status.js",
     "dependencies" : {
       "KMS_AltGauge" : {
         "version" : "^1.0.0"
-        }
       }
     }
   }
+  "Version Control" : {
+  "fileName" : "TJ_Version_Control.js",
+  "version" : "1.0.1",
+  "URL" : "https://raw.githubusercontent.com/tjkenmate/MVPlugins/master/TJ_Version_Control.js"
 }
