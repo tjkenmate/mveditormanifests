@@ -1,0 +1,13 @@
+{
+  "KMSAltGauge" : {
+    "displayName" : "Tj's Alt Gauge Patch!",
+    "fileName" : "TJ_Patch_KMSAltGauge_YEP_Status.js",
+    "version" : "1.0.0",
+    "dependencies" : {
+      "KMS_AltGauge" : {
+        "version" : "^1.0.0"
+        }
+      }
+    }
+  }
+}
