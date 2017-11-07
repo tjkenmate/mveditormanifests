@@ -11,8 +11,8 @@
     }
   },
   "Version Control" : {
-  "fileName" : "TJ_Version_Control.js",
-  "version" : "1.0.1",
-  "URL" : "https://raw.githubusercontent.com/tjkenmate/MVPlugins/master/TJ_Version_Control.js"
+    "fileName" : "TJ_Version_Control.js",
+    "version" : "1.0.1",
+    "URL" : "https://raw.githubusercontent.com/tjkenmate/MVPlugins/master/TJ_Version_Control.js"
   }
 }
