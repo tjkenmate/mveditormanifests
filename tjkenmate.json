@@ -13,6 +13,8 @@
   "Version Control" : {
     "fileName" : "TJ_Version_Control.js",
     "version" : "1.0.1",
+    "website" : "https://tjkenmate.wordpress.com/",
+    "info" : "Database Backup and Version Numbering!",
     "URL" : "https://raw.githubusercontent.com/tjkenmate/MVPlugins/master/TJ_Version_Control.js"
   }
 }
